@@ -18,3 +18,4 @@ The project consists of three phases:
 * Scikit-learn 0.17 (http://scikit-learn.org)
 * NLTK 3.1 (http://www.nltk.org)
 * Sumy 0.4.1 (https://pypi.python.org/pypi/sumy)
+* IMDbPy (http://imdbpy.sourceforge.net)
